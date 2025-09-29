@@ -1,5 +1,5 @@
- ---
- layout: default
- title: "Blog Archive"
- permalink: /
- ---
+---
+layout: default
+title: "Blog Archive"
+permalink: /
+---
