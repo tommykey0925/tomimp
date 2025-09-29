@@ -1,7 +1,5 @@
 ---
-layout: default
-title: "Home"
-permalink: /
+title: Home
 ---
 
 ## All Posts
