@@ -1,6 +1,5 @@
   ---
-  layout: archive
+  layout: default
   title: "Blog Archive"
+  permalink: /archive/
   ---
-# test
-- test
