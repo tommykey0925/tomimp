@@ -1,2 +1,4 @@
 description: tommy's impressions
-theme: jekyll-theme-midnight
+plugins:
+ - jekyll-remote-theme
+remote_theme: "pubrondeau/jekflix"
