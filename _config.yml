@@ -2,3 +2,5 @@ description: tommy's impressions
 plugins:
  - jekyll-remote-theme
 remote_theme: "mmistakes/minimal-mistakes"
+pagenate: 5
+pagenate_path: /page:num/
