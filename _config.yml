@@ -1,5 +1,4 @@
 description: tommy's impressions
 plugins:
  - jekyll-remote-theme
-remote_theme: mmistakes/minimal-mistakes@4.26.2 # or the latest version
-
+remote_theme: "mmistakes/minimal-mistakes"
